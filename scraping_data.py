@@ -126,28 +126,62 @@ class QuizletScraper:
         except Exception as e:
             logging.warning(f"Error checking login status: {str(e)}")
             return False
+        
 
+    
+    def get_flash_cards(self,link):
+        self.driver.get(link)
+        div = self.driver.find_elements(By.CLASS_NAME,"ttuvcp0")
+        for i in div:
+            question = i.find_element(By.TAG_NAME,"div").find_element(By.TAG_NAME,"div").text
+            print(question)
+        # aaaa = self.driver.find_element(By.CLASS_NAME,"wdwivj1")
+        # answer = aaaa.find_element(By.TAG_NAME,"div").find_element(By.TAG_NAME,"div").find_element(By.TAG_NAME,"div").text
+        # print("answer \n",answer)
+        
+    def extract_each_lessions_part(self,link):
+        print(link)
+        # for i in range(0,len(data)-1):
+        #     part = data[i]
+        self.driver.get(link)
+        div = self.driver.find_element(By.CLASS_NAME,"SetPageStudyModeButtons")
+        lis = div.find_elements(By.CLASS_NAME,"SetPageStudyModeButton")
+        print("=======================> ")
+        for i in lis:
+            print(i.find_element(By.TAG_NAME,"a").text)
+        print("=======================> ")
+        a  = div.find_element(By.TAG_NAME,"a")
+        flash_cards = a.get_attribute("href")
     def extract_data_examples(self, url):
         """Example method showing different ways to extract data based on website structure"""
+        print("here========================================")
+        data = {}
         try:
             self.driver.get(url)
             print(self.driver)
             self.human_like_delay()
-            
-            # Example 1: Using ID selector
-            # <div id="id-cars-place">
-            #     <div id="cards">...</div>
-            # </div>
             try:
                 title = ""
+                counter = 0
                 parent_div = self.driver.find_element(By.CLASS_NAME, "l1i8mi1u")
-                carsd_data = parent_div.find_elements(By.CLASS_NAME,"SetPreviewCard-title")
+                carsd_data = parent_div.find_elements(By.CLASS_NAME,"SetPreviewCard-header")
                 for i in carsd_data:
                     link = i.find_element(By.TAG_NAME,"a").get_attribute("href")
-                    print(link)
                     title = i.find_element(By.TAG_NAME,"a").text
-                    print(title)
-                logging.info("Found elements using ID selectors")
+                    terms = i.find_element(By.CLASS_NAME,"SetPreviewCard-secondaryMetadataRow").find_elements(By.TAG_NAME,"span")[3].text
+                    terms = terms[0:2].strip()
+                    d = {
+                        'link':link,
+                        'title':title,
+                        'terms':terms
+                        }
+                    data[counter] = d
+                    counter+=1
+                    
+                    break
+                logging.info("Found Data selectors")
+                return data
+                    
             except Exception as e:
                 logging.warning(f"ID selector example failed: {str(e)}")
 
@@ -192,21 +226,23 @@ class QuizletScraper:
 
 def main():
     # Quizlet flashcards URL
-    url = "https://quizlet.com/exams/toefl/toefl-vocabulary-e473ccd-s01"
-    
+    # url = "https://quizlet.com/exams/toefl/toefl-vocabulary-e473ccd-s01"
+    # url = "https://quizlet.com/it/783933153/toefl-advanced-crimes-and-the-law-vocabulary-set-7-flash-cards/"
+    url = "https://quizlet.com/783933153/flashcards?funnelUUID=48b3aa21-25d9-47af-a963-b4b432289f31"
     scraper = None
     try:
         logging.info("Starting Quizlet flashcards scraping...")
         scraper = QuizletScraper()
         
         # Demonstrate different extraction methods
-        scraper.extract_data_examples(url)
-        
+        # book_lessions = scraper.extract_data_examples(url)
+        # scraper.extract_each_lessions_part(url)
+        scraper.get_flash_cards(url)
     except Exception as e:
         logging.error(f"An error occurred in main: {str(e)}")
-    finally:
-        if scraper:
-            scraper.close()
+    # finally:
+        # if scraper:
+            # scraper.close()
 
 if __name__ == "__main__":
     main()
