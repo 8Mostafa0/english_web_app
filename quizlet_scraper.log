@@ -1,0 +1,1582 @@
+2025-04-12 15:21:33,675 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:21:33,705 - INFO - Headers setup completed successfully
+2025-04-12 15:21:33,705 - INFO - Initializing Chrome driver...
+2025-04-12 15:21:40,797 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:21:41,882 - INFO - Chrome driver initialized successfully
+2025-04-12 15:21:41,882 - INFO - Accessing Quizlet page: https://quizlet.com/it/783883428/toefl-beginner-activities-and-hobbies-vocabulary-set-2-flash-cards/
+2025-04-12 15:21:52,526 - INFO - Waiting for flashcards to load...
+2025-04-12 15:22:12,701 - ERROR - Timeout waiting for page elements to load
+2025-04-12 15:22:12,703 - WARNING - No flashcards found. Check if the page structure has changed.
+2025-04-12 15:22:13,100 - INFO - Chrome driver closed successfully
+2025-04-12 15:22:13,100 - INFO - Session closed successfully
+2025-04-12 15:22:17,049 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:22:17,073 - INFO - Headers setup completed successfully
+2025-04-12 15:22:17,073 - INFO - Initializing Chrome driver...
+2025-04-12 15:22:22,074 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:22:22,855 - INFO - Chrome driver initialized successfully
+2025-04-12 15:22:22,855 - INFO - Accessing Quizlet page: https://quizlet.com/it/783883428/toefl-beginner-activities-and-hobbies-vocabulary-set-2-flash-cards/
+2025-04-12 15:22:31,987 - INFO - Waiting for flashcards to load...
+2025-04-12 15:22:52,511 - ERROR - Timeout waiting for page elements to load
+2025-04-12 15:22:52,512 - WARNING - No flashcards found. Check if the page structure has changed.
+2025-04-12 15:22:52,802 - INFO - Chrome driver closed successfully
+2025-04-12 15:22:52,803 - INFO - Session closed successfully
+2025-04-12 15:23:14,392 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:23:14,422 - INFO - Headers setup completed successfully
+2025-04-12 15:23:14,422 - INFO - Initializing Chrome driver...
+2025-04-12 15:23:19,386 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:23:20,179 - INFO - Chrome driver initialized successfully
+2025-04-12 15:23:20,179 - INFO - Accessing Quizlet page: https://quizlet.com/it/783883428/toefl-beginner-activities-and-hobbies-vocabulary-set-2-flash-cards/
+2025-04-12 15:23:36,354 - INFO - Waiting for flashcards to load...
+2025-04-12 15:23:56,441 - ERROR - Timeout waiting for page elements to load
+2025-04-12 15:23:56,456 - WARNING - No flashcards found. Check if the page structure has changed.
+2025-04-12 15:23:56,623 - INFO - Chrome driver closed successfully
+2025-04-12 15:23:56,624 - INFO - Session closed successfully
+2025-04-12 15:27:55,830 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:27:55,852 - INFO - Headers setup completed successfully
+2025-04-12 15:27:55,863 - INFO - Initializing Chrome driver...
+2025-04-12 15:28:00,714 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:28:01,487 - INFO - Chrome driver initialized successfully
+2025-04-12 15:28:01,488 - INFO - Accessing Quizlet page: https://quizlet.com/exams/toefl/toefl-vocabulary-e473ccd-s01
+2025-04-12 15:28:10,561 - INFO - Waiting for flashcards to load...
+2025-04-12 15:28:10,583 - INFO - Extracting flashcard data...
+2025-04-12 15:28:10,606 - INFO - Successfully extracted 0 flashcards
+2025-04-12 15:28:10,607 - INFO - Successfully scraped 0 flashcards
+2025-04-12 15:28:10,750 - INFO - Chrome driver closed successfully
+2025-04-12 15:28:10,763 - INFO - Session closed successfully
+2025-04-12 15:29:24,703 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:29:24,725 - INFO - Headers setup completed successfully
+2025-04-12 15:29:24,725 - INFO - Initializing Chrome driver...
+2025-04-12 15:29:29,889 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:29:30,668 - INFO - Chrome driver initialized successfully
+2025-04-12 15:29:30,668 - INFO - Accessing Quizlet page: https://quizlet.com/exams/toefl/toefl-vocabulary-e473ccd-s01
+2025-04-12 15:29:39,315 - INFO - Waiting for flashcards to load...
+2025-04-12 15:29:39,332 - INFO - Extracting flashcard data...
+2025-04-12 15:29:39,358 - INFO - Successfully extracted 0 flashcards
+2025-04-12 15:29:39,359 - INFO - Successfully scraped 0 flashcards
+2025-04-12 15:29:39,374 - INFO - Successfully saved cookies
+2025-04-12 15:29:39,375 - INFO - Chrome driver closed successfully
+2025-04-12 15:29:39,375 - INFO - Session closed successfully
+2025-04-12 15:29:42,939 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:29:42,961 - INFO - Headers setup completed successfully
+2025-04-12 15:29:42,961 - INFO - Initializing Chrome driver...
+2025-04-12 15:29:49,137 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:29:49,958 - INFO - Chrome driver initialized successfully
+2025-04-12 15:29:49,978 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x003E80E3+60707]
+	GetHandleVerifier [0x003E8124+60772]
+	(No symbol) [0x002104FE]
+	(No symbol) [0x002AF3B0]
+	(No symbol) [0x0027D04C]
+	(No symbol) [0x0029E824]
+	(No symbol) [0x0027CE46]
+	(No symbol) [0x0024C5D3]
+	(No symbol) [0x0024D424]
+	GetHandleVerifier [0x0062BBC3+2435075]
+	GetHandleVerifier [0x00627163+2416035]
+	GetHandleVerifier [0x0064350C+2531660]
+	GetHandleVerifier [0x003FF1B5+155125]
+	GetHandleVerifier [0x00405B5D+182173]
+	GetHandleVerifier [0x003EF9B8+91640]
+	GetHandleVerifier [0x003EFB60+92064]
+	GetHandleVerifier [0x003DA620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:29:49,980 - INFO - Accessing Quizlet page: https://quizlet.com/exams/toefl/toefl-vocabulary-e473ccd-s01
+2025-04-12 15:29:53,917 - INFO - Waiting for flashcards to load...
+2025-04-12 15:29:53,930 - INFO - Extracting flashcard data...
+2025-04-12 15:29:53,949 - INFO - Successfully extracted 0 flashcards
+2025-04-12 15:29:53,950 - INFO - Successfully scraped 0 flashcards
+2025-04-12 15:29:53,951 - INFO - Successfully saved cookies
+2025-04-12 15:29:53,951 - INFO - Chrome driver closed successfully
+2025-04-12 15:29:53,951 - INFO - Session closed successfully
+2025-04-12 15:30:48,540 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:30:48,576 - INFO - Headers setup completed successfully
+2025-04-12 15:30:48,576 - INFO - Initializing Chrome driver...
+2025-04-12 15:30:53,961 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:30:54,754 - INFO - Chrome driver initialized successfully
+2025-04-12 15:30:54,764 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00ED80E3+60707]
+	GetHandleVerifier [0x00ED8124+60772]
+	(No symbol) [0x00D004FE]
+	(No symbol) [0x00D9F3B0]
+	(No symbol) [0x00D6D04C]
+	(No symbol) [0x00D8E824]
+	(No symbol) [0x00D6CE46]
+	(No symbol) [0x00D3C5D3]
+	(No symbol) [0x00D3D424]
+	GetHandleVerifier [0x0111BBC3+2435075]
+	GetHandleVerifier [0x01117163+2416035]
+	GetHandleVerifier [0x0113350C+2531660]
+	GetHandleVerifier [0x00EEF1B5+155125]
+	GetHandleVerifier [0x00EF5B5D+182173]
+	GetHandleVerifier [0x00EDF9B8+91640]
+	GetHandleVerifier [0x00EDFB60+92064]
+	GetHandleVerifier [0x00ECA620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:30:54,768 - INFO - Accessing Quizlet page: https://quizlet.com/exams/toefl/toefl-vocabulary-e473ccd-s01
+2025-04-12 15:31:01,194 - INFO - Waiting for flashcards to load...
+2025-04-12 15:31:01,208 - INFO - Extracting flashcard data...
+2025-04-12 15:31:01,208 - ERROR - Error scraping flashcards: name 'sleep' is not defined
+2025-04-12 15:31:01,208 - INFO - Successfully scraped 0 flashcards
+2025-04-12 15:31:01,218 - INFO - Successfully saved cookies
+2025-04-12 15:31:01,219 - INFO - Chrome driver closed successfully
+2025-04-12 15:31:01,219 - INFO - Session closed successfully
+2025-04-12 15:31:40,997 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:31:41,031 - INFO - Headers setup completed successfully
+2025-04-12 15:31:41,032 - INFO - Initializing Chrome driver...
+2025-04-12 15:31:48,245 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:31:49,302 - INFO - Chrome driver initialized successfully
+2025-04-12 15:31:49,330 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x008B80E3+60707]
+	GetHandleVerifier [0x008B8124+60772]
+	(No symbol) [0x006E04FE]
+	(No symbol) [0x0077F3B0]
+	(No symbol) [0x0074D04C]
+	(No symbol) [0x0076E824]
+	(No symbol) [0x0074CE46]
+	(No symbol) [0x0071C5D3]
+	(No symbol) [0x0071D424]
+	GetHandleVerifier [0x00AFBBC3+2435075]
+	GetHandleVerifier [0x00AF7163+2416035]
+	GetHandleVerifier [0x00B1350C+2531660]
+	GetHandleVerifier [0x008CF1B5+155125]
+	GetHandleVerifier [0x008D5B5D+182173]
+	GetHandleVerifier [0x008BF9B8+91640]
+	GetHandleVerifier [0x008BFB60+92064]
+	GetHandleVerifier [0x008AA620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:31:49,332 - INFO - Accessing Quizlet page: https://quizlet.com/exams/toefl/toefl-vocabulary-e473ccd-s01
+2025-04-12 15:31:54,616 - INFO - Waiting for flashcards to load...
+2025-04-12 15:31:54,616 - INFO - Extracting flashcard data...
+2025-04-12 15:32:04,690 - INFO - Successfully extracted 0 flashcards
+2025-04-12 15:32:04,691 - INFO - Successfully scraped 0 flashcards
+2025-04-12 15:32:04,731 - INFO - Successfully saved cookies
+2025-04-12 15:32:04,732 - INFO - Chrome driver closed successfully
+2025-04-12 15:32:04,733 - INFO - Session closed successfully
+2025-04-12 15:32:09,120 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:32:09,144 - INFO - Headers setup completed successfully
+2025-04-12 15:32:09,144 - INFO - Initializing Chrome driver...
+2025-04-12 15:32:15,425 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:32:16,183 - INFO - Chrome driver initialized successfully
+2025-04-12 15:32:16,216 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x008E80E3+60707]
+	GetHandleVerifier [0x008E8124+60772]
+	(No symbol) [0x007104FE]
+	(No symbol) [0x007AF3B0]
+	(No symbol) [0x0077D04C]
+	(No symbol) [0x0079E824]
+	(No symbol) [0x0077CE46]
+	(No symbol) [0x0074C5D3]
+	(No symbol) [0x0074D424]
+	GetHandleVerifier [0x00B2BBC3+2435075]
+	GetHandleVerifier [0x00B27163+2416035]
+	GetHandleVerifier [0x00B4350C+2531660]
+	GetHandleVerifier [0x008FF1B5+155125]
+	GetHandleVerifier [0x00905B5D+182173]
+	GetHandleVerifier [0x008EF9B8+91640]
+	GetHandleVerifier [0x008EFB60+92064]
+	GetHandleVerifier [0x008DA620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:32:16,221 - INFO - Accessing Quizlet page: https://quizlet.com/exams/toefl/toefl-vocabulary-e473ccd-s01
+2025-04-12 15:32:22,197 - WARNING - Error checking login status: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x008E80E3+60707]
+	GetHandleVerifier [0x008E8124+60772]
+	(No symbol) [0x00710683]
+	(No symbol) [0x006FFED0]
+	(No symbol) [0x0071DD3F]
+	(No symbol) [0x00783D7F]
+	(No symbol) [0x0079E129]
+	(No symbol) [0x0077CE46]
+	(No symbol) [0x0074C5D3]
+	(No symbol) [0x0074D424]
+	GetHandleVerifier [0x00B2BBC3+2435075]
+	GetHandleVerifier [0x00B27163+2416035]
+	GetHandleVerifier [0x00B4350C+2531660]
+	GetHandleVerifier [0x008FF1B5+155125]
+	GetHandleVerifier [0x00905B5D+182173]
+	GetHandleVerifier [0x008EF9B8+91640]
+	GetHandleVerifier [0x008EFB60+92064]
+	GetHandleVerifier [0x008DA620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:32:22,200 - WARNING - Not logged in. Please log in manually and the session will be saved.
+2025-04-12 15:38:24,029 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:38:24,055 - INFO - Headers setup completed successfully
+2025-04-12 15:38:24,055 - INFO - Initializing Chrome driver...
+2025-04-12 15:38:35,123 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:38:35,954 - INFO - Chrome driver initialized successfully
+2025-04-12 15:38:35,965 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B04FE]
+	(No symbol) [0x0034F3B0]
+	(No symbol) [0x0031D04C]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:42,250 - WARNING - ID selector example failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="cards"]"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:42,254 - INFO - Accessing Quizlet page: https://quizlet.com/exams/toefl/toefl-vocabulary-e473ccd-s01
+2025-04-12 15:38:45,596 - INFO - Waiting for flashcards to load...
+2025-04-12 15:38:45,606 - INFO - Extracting flashcard data...
+2025-04-12 15:38:45,638 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,660 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,678 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,693 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,737 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,743 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,759 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,763 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,775 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,785 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,794 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,804 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,812 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,822 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,832 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,843 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,855 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,861 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,874 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,878 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,891 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,904 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,911 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,922 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,936 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,944 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,958 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,969 - WARNING - Error extracting card data (Method 1): Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004880E3+60707]
+	GetHandleVerifier [0x00488124+60772]
+	(No symbol) [0x002B0683]
+	(No symbol) [0x002F8660]
+	(No symbol) [0x002F89FB]
+	(No symbol) [0x002EDD81]
+	(No symbol) [0x0031D094]
+	(No symbol) [0x002EDCA4]
+	(No symbol) [0x0031D2C4]
+	(No symbol) [0x0033E824]
+	(No symbol) [0x0031CE46]
+	(No symbol) [0x002EC5D3]
+	(No symbol) [0x002ED424]
+	GetHandleVerifier [0x006CBBC3+2435075]
+	GetHandleVerifier [0x006C7163+2416035]
+	GetHandleVerifier [0x006E350C+2531660]
+	GetHandleVerifier [0x0049F1B5+155125]
+	GetHandleVerifier [0x004A5B5D+182173]
+	GetHandleVerifier [0x0048F9B8+91640]
+	GetHandleVerifier [0x0048FB60+92064]
+	GetHandleVerifier [0x0047A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:38:45,996 - INFO - Successfully extracted 0 flashcards
+2025-04-12 15:38:45,996 - WARNING - No flashcards were found. Check the website structure or selectors.
+2025-04-12 15:38:46,004 - INFO - Successfully saved cookies
+2025-04-12 15:38:46,004 - INFO - Chrome driver closed successfully
+2025-04-12 15:38:46,011 - INFO - Session closed successfully
+2025-04-12 15:40:07,868 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:40:07,890 - INFO - Headers setup completed successfully
+2025-04-12 15:40:07,890 - INFO - Initializing Chrome driver...
+2025-04-12 15:40:12,960 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:40:13,739 - INFO - Chrome driver initialized successfully
+2025-04-12 15:40:13,756 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x003080E3+60707]
+	GetHandleVerifier [0x00308124+60772]
+	(No symbol) [0x001304FE]
+	(No symbol) [0x001CF3B0]
+	(No symbol) [0x0019D04C]
+	(No symbol) [0x001BE824]
+	(No symbol) [0x0019CE46]
+	(No symbol) [0x0016C5D3]
+	(No symbol) [0x0016D424]
+	GetHandleVerifier [0x0054BBC3+2435075]
+	GetHandleVerifier [0x00547163+2416035]
+	GetHandleVerifier [0x0056350C+2531660]
+	GetHandleVerifier [0x0031F1B5+155125]
+	GetHandleVerifier [0x00325B5D+182173]
+	GetHandleVerifier [0x0030F9B8+91640]
+	GetHandleVerifier [0x0030FB60+92064]
+	GetHandleVerifier [0x002FA620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+	(No symbol) [0x00000000]
+
+2025-04-12 15:40:17,807 - WARNING - ID selector example failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="cards"]"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x003080E3+60707]
+	GetHandleVerifier [0x00308124+60772]
+	(No symbol) [0x00130683]
+	(No symbol) [0x00178660]
+	(No symbol) [0x001789FB]
+	(No symbol) [0x0016DD81]
+	(No symbol) [0x0019D094]
+	(No symbol) [0x0016DCA4]
+	(No symbol) [0x0019D2C4]
+	(No symbol) [0x001BE824]
+	(No symbol) [0x0019CE46]
+	(No symbol) [0x0016C5D3]
+	(No symbol) [0x0016D424]
+	GetHandleVerifier [0x0054BBC3+2435075]
+	GetHandleVerifier [0x00547163+2416035]
+	GetHandleVerifier [0x0056350C+2531660]
+	GetHandleVerifier [0x0031F1B5+155125]
+	GetHandleVerifier [0x00325B5D+182173]
+	GetHandleVerifier [0x0030F9B8+91640]
+	GetHandleVerifier [0x0030FB60+92064]
+	GetHandleVerifier [0x002FA620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+	(No symbol) [0x00000000]
+
+2025-04-12 15:40:17,825 - INFO - Successfully saved cookies
+2025-04-12 15:40:17,826 - INFO - Chrome driver closed successfully
+2025-04-12 15:40:17,826 - INFO - Session closed successfully
+2025-04-12 15:41:29,683 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:41:29,705 - INFO - Headers setup completed successfully
+2025-04-12 15:41:29,705 - INFO - Initializing Chrome driver...
+2025-04-12 15:41:34,053 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:41:34,993 - INFO - Chrome driver initialized successfully
+2025-04-12 15:41:35,001 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x009980E3+60707]
+	GetHandleVerifier [0x00998124+60772]
+	(No symbol) [0x007C04FE]
+	(No symbol) [0x0085F3B0]
+	(No symbol) [0x0082D04C]
+	(No symbol) [0x0084E824]
+	(No symbol) [0x0082CE46]
+	(No symbol) [0x007FC5D3]
+	(No symbol) [0x007FD424]
+	GetHandleVerifier [0x00BDBBC3+2435075]
+	GetHandleVerifier [0x00BD7163+2416035]
+	GetHandleVerifier [0x00BF350C+2531660]
+	GetHandleVerifier [0x009AF1B5+155125]
+	GetHandleVerifier [0x009B5B5D+182173]
+	GetHandleVerifier [0x0099F9B8+91640]
+	GetHandleVerifier [0x0099FB60+92064]
+	GetHandleVerifier [0x0098A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:41:38,778 - WARNING - ID selector example failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="cards"]"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x009980E3+60707]
+	GetHandleVerifier [0x00998124+60772]
+	(No symbol) [0x007C0683]
+	(No symbol) [0x00808660]
+	(No symbol) [0x008089FB]
+	(No symbol) [0x007FDD81]
+	(No symbol) [0x0082D094]
+	(No symbol) [0x007FDCA4]
+	(No symbol) [0x0082D2C4]
+	(No symbol) [0x0084E824]
+	(No symbol) [0x0082CE46]
+	(No symbol) [0x007FC5D3]
+	(No symbol) [0x007FD424]
+	GetHandleVerifier [0x00BDBBC3+2435075]
+	GetHandleVerifier [0x00BD7163+2416035]
+	GetHandleVerifier [0x00BF350C+2531660]
+	GetHandleVerifier [0x009AF1B5+155125]
+	GetHandleVerifier [0x009B5B5D+182173]
+	GetHandleVerifier [0x0099F9B8+91640]
+	GetHandleVerifier [0x0099FB60+92064]
+	GetHandleVerifier [0x0098A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:41:38,789 - INFO - Successfully saved cookies
+2025-04-12 15:41:38,790 - INFO - Chrome driver closed successfully
+2025-04-12 15:41:38,790 - INFO - Session closed successfully
+2025-04-12 15:42:23,432 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:42:23,453 - INFO - Headers setup completed successfully
+2025-04-12 15:42:23,453 - INFO - Initializing Chrome driver...
+2025-04-12 15:42:29,044 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:42:29,832 - INFO - Chrome driver initialized successfully
+2025-04-12 15:42:29,846 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x011780E3+60707]
+	GetHandleVerifier [0x01178124+60772]
+	(No symbol) [0x00FA04FE]
+	(No symbol) [0x0103F3B0]
+	(No symbol) [0x0100D04C]
+	(No symbol) [0x0102E824]
+	(No symbol) [0x0100CE46]
+	(No symbol) [0x00FDC5D3]
+	(No symbol) [0x00FDD424]
+	GetHandleVerifier [0x013BBBC3+2435075]
+	GetHandleVerifier [0x013B7163+2416035]
+	GetHandleVerifier [0x013D350C+2531660]
+	GetHandleVerifier [0x0118F1B5+155125]
+	GetHandleVerifier [0x01195B5D+182173]
+	GetHandleVerifier [0x0117F9B8+91640]
+	GetHandleVerifier [0x0117FB60+92064]
+	GetHandleVerifier [0x0116A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:42:34,766 - WARNING - ID selector example failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="cards"]"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x011780E3+60707]
+	GetHandleVerifier [0x01178124+60772]
+	(No symbol) [0x00FA0683]
+	(No symbol) [0x00FE8660]
+	(No symbol) [0x00FE89FB]
+	(No symbol) [0x00FDDD81]
+	(No symbol) [0x0100D094]
+	(No symbol) [0x00FDDCA4]
+	(No symbol) [0x0100D2C4]
+	(No symbol) [0x0102E824]
+	(No symbol) [0x0100CE46]
+	(No symbol) [0x00FDC5D3]
+	(No symbol) [0x00FDD424]
+	GetHandleVerifier [0x013BBBC3+2435075]
+	GetHandleVerifier [0x013B7163+2416035]
+	GetHandleVerifier [0x013D350C+2531660]
+	GetHandleVerifier [0x0118F1B5+155125]
+	GetHandleVerifier [0x01195B5D+182173]
+	GetHandleVerifier [0x0117F9B8+91640]
+	GetHandleVerifier [0x0117FB60+92064]
+	GetHandleVerifier [0x0116A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:42:34,782 - INFO - Successfully saved cookies
+2025-04-12 15:42:34,782 - INFO - Chrome driver closed successfully
+2025-04-12 15:42:34,782 - INFO - Session closed successfully
+2025-04-12 15:43:31,897 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:43:31,920 - INFO - Headers setup completed successfully
+2025-04-12 15:43:31,920 - INFO - Initializing Chrome driver...
+2025-04-12 15:43:35,724 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:43:36,500 - INFO - Chrome driver initialized successfully
+2025-04-12 15:43:36,523 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x002F80E3+60707]
+	GetHandleVerifier [0x002F8124+60772]
+	(No symbol) [0x001204FE]
+	(No symbol) [0x001BF3B0]
+	(No symbol) [0x0018D04C]
+	(No symbol) [0x001AE824]
+	(No symbol) [0x0018CE46]
+	(No symbol) [0x0015C5D3]
+	(No symbol) [0x0015D424]
+	GetHandleVerifier [0x0053BBC3+2435075]
+	GetHandleVerifier [0x00537163+2416035]
+	GetHandleVerifier [0x0055350C+2531660]
+	GetHandleVerifier [0x0030F1B5+155125]
+	GetHandleVerifier [0x00315B5D+182173]
+	GetHandleVerifier [0x002FF9B8+91640]
+	GetHandleVerifier [0x002FFB60+92064]
+	GetHandleVerifier [0x002EA620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+	(No symbol) [0x00000000]
+
+2025-04-12 15:43:41,356 - WARNING - ID selector example failed: type object 'By' has no attribute 'I'
+2025-04-12 15:43:41,364 - INFO - Successfully saved cookies
+2025-04-12 15:43:41,364 - INFO - Chrome driver closed successfully
+2025-04-12 15:43:41,364 - INFO - Session closed successfully
+2025-04-12 15:43:53,258 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:43:53,290 - INFO - Headers setup completed successfully
+2025-04-12 15:43:53,290 - INFO - Initializing Chrome driver...
+2025-04-12 15:43:58,486 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:43:59,265 - INFO - Chrome driver initialized successfully
+2025-04-12 15:43:59,278 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x004380E3+60707]
+	GetHandleVerifier [0x00438124+60772]
+	(No symbol) [0x002604FE]
+	(No symbol) [0x002FF3B0]
+	(No symbol) [0x002CD04C]
+	(No symbol) [0x002EE824]
+	(No symbol) [0x002CCE46]
+	(No symbol) [0x0029C5D3]
+	(No symbol) [0x0029D424]
+	GetHandleVerifier [0x0067BBC3+2435075]
+	GetHandleVerifier [0x00677163+2416035]
+	GetHandleVerifier [0x0069350C+2531660]
+	GetHandleVerifier [0x0044F1B5+155125]
+	GetHandleVerifier [0x00455B5D+182173]
+	GetHandleVerifier [0x0043F9B8+91640]
+	GetHandleVerifier [0x0043FB60+92064]
+	GetHandleVerifier [0x0042A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:44:04,170 - WARNING - ID selector example failed: object of type 'WebElement' has no len()
+2025-04-12 15:44:04,187 - INFO - Successfully saved cookies
+2025-04-12 15:44:04,187 - INFO - Chrome driver closed successfully
+2025-04-12 15:44:04,188 - INFO - Session closed successfully
+2025-04-12 15:44:54,813 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:44:54,835 - INFO - Headers setup completed successfully
+2025-04-12 15:44:54,835 - INFO - Initializing Chrome driver...
+2025-04-12 15:44:59,832 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:45:00,615 - INFO - Chrome driver initialized successfully
+2025-04-12 15:45:00,636 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x005C80E3+60707]
+	GetHandleVerifier [0x005C8124+60772]
+	(No symbol) [0x003F04FE]
+	(No symbol) [0x0048F3B0]
+	(No symbol) [0x0045D04C]
+	(No symbol) [0x0047E824]
+	(No symbol) [0x0045CE46]
+	(No symbol) [0x0042C5D3]
+	(No symbol) [0x0042D424]
+	GetHandleVerifier [0x0080BBC3+2435075]
+	GetHandleVerifier [0x00807163+2416035]
+	GetHandleVerifier [0x0082350C+2531660]
+	GetHandleVerifier [0x005DF1B5+155125]
+	GetHandleVerifier [0x005E5B5D+182173]
+	GetHandleVerifier [0x005CF9B8+91640]
+	GetHandleVerifier [0x005CFB60+92064]
+	GetHandleVerifier [0x005BA620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:45:05,229 - WARNING - ID selector example failed: 'WebElement' object is not iterable
+2025-04-12 15:45:05,247 - INFO - Successfully saved cookies
+2025-04-12 15:45:05,248 - INFO - Chrome driver closed successfully
+2025-04-12 15:45:05,248 - INFO - Session closed successfully
+2025-04-12 15:45:21,091 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:45:21,112 - INFO - Headers setup completed successfully
+2025-04-12 15:45:21,112 - INFO - Initializing Chrome driver...
+2025-04-12 15:45:25,551 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:45:26,389 - INFO - Chrome driver initialized successfully
+2025-04-12 15:45:26,401 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00A880E3+60707]
+	GetHandleVerifier [0x00A88124+60772]
+	(No symbol) [0x008B04FE]
+	(No symbol) [0x0094F3B0]
+	(No symbol) [0x0091D04C]
+	(No symbol) [0x0093E824]
+	(No symbol) [0x0091CE46]
+	(No symbol) [0x008EC5D3]
+	(No symbol) [0x008ED424]
+	GetHandleVerifier [0x00CCBBC3+2435075]
+	GetHandleVerifier [0x00CC7163+2416035]
+	GetHandleVerifier [0x00CE350C+2531660]
+	GetHandleVerifier [0x00A9F1B5+155125]
+	GetHandleVerifier [0x00AA5B5D+182173]
+	GetHandleVerifier [0x00A8F9B8+91640]
+	GetHandleVerifier [0x00A8FB60+92064]
+	GetHandleVerifier [0x00A7A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:45:30,803 - INFO - Found elements using ID selectors
+2025-04-12 15:45:30,803 - INFO - Successfully saved cookies
+2025-04-12 15:45:30,803 - INFO - Chrome driver closed successfully
+2025-04-12 15:45:30,803 - INFO - Session closed successfully
+2025-04-12 15:46:43,282 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:46:43,303 - INFO - Headers setup completed successfully
+2025-04-12 15:46:43,311 - INFO - Initializing Chrome driver...
+2025-04-12 15:46:48,356 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:46:49,133 - INFO - Chrome driver initialized successfully
+2025-04-12 15:46:49,155 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x010380E3+60707]
+	GetHandleVerifier [0x01038124+60772]
+	(No symbol) [0x00E604FE]
+	(No symbol) [0x00EFF3B0]
+	(No symbol) [0x00ECD04C]
+	(No symbol) [0x00EEE824]
+	(No symbol) [0x00ECCE46]
+	(No symbol) [0x00E9C5D3]
+	(No symbol) [0x00E9D424]
+	GetHandleVerifier [0x0127BBC3+2435075]
+	GetHandleVerifier [0x01277163+2416035]
+	GetHandleVerifier [0x0129350C+2531660]
+	GetHandleVerifier [0x0104F1B5+155125]
+	GetHandleVerifier [0x01055B5D+182173]
+	GetHandleVerifier [0x0103F9B8+91640]
+	GetHandleVerifier [0x0103FB60+92064]
+	GetHandleVerifier [0x0102A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:46:56,414 - WARNING - ID selector example failed: Message: no such element: Unable to locate element: {"method":"css selector","selector":".AssemblyLink AssemblyLink--medium AssemblyLink--title"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x010380E3+60707]
+	GetHandleVerifier [0x01038124+60772]
+	(No symbol) [0x00E60683]
+	(No symbol) [0x00EA8660]
+	(No symbol) [0x00EA89FB]
+	(No symbol) [0x00E9DD81]
+	(No symbol) [0x00ECD094]
+	(No symbol) [0x00E9DCA4]
+	(No symbol) [0x00ECD2C4]
+	(No symbol) [0x00EEE824]
+	(No symbol) [0x00ECCE46]
+	(No symbol) [0x00E9C5D3]
+	(No symbol) [0x00E9D424]
+	GetHandleVerifier [0x0127BBC3+2435075]
+	GetHandleVerifier [0x01277163+2416035]
+	GetHandleVerifier [0x0129350C+2531660]
+	GetHandleVerifier [0x0104F1B5+155125]
+	GetHandleVerifier [0x01055B5D+182173]
+	GetHandleVerifier [0x0103F9B8+91640]
+	GetHandleVerifier [0x0103FB60+92064]
+	GetHandleVerifier [0x0102A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:46:56,430 - INFO - Successfully saved cookies
+2025-04-12 15:46:56,441 - INFO - Chrome driver closed successfully
+2025-04-12 15:46:56,441 - INFO - Session closed successfully
+2025-04-12 15:49:08,228 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:49:08,250 - INFO - Headers setup completed successfully
+2025-04-12 15:49:08,250 - INFO - Initializing Chrome driver...
+2025-04-12 15:49:13,347 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:49:14,104 - INFO - Chrome driver initialized successfully
+2025-04-12 15:49:14,123 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00EA80E3+60707]
+	GetHandleVerifier [0x00EA8124+60772]
+	(No symbol) [0x00CD04FE]
+	(No symbol) [0x00D6F3B0]
+	(No symbol) [0x00D3D04C]
+	(No symbol) [0x00D5E824]
+	(No symbol) [0x00D3CE46]
+	(No symbol) [0x00D0C5D3]
+	(No symbol) [0x00D0D424]
+	GetHandleVerifier [0x010EBBC3+2435075]
+	GetHandleVerifier [0x010E7163+2416035]
+	GetHandleVerifier [0x0110350C+2531660]
+	GetHandleVerifier [0x00EBF1B5+155125]
+	GetHandleVerifier [0x00EC5B5D+182173]
+	GetHandleVerifier [0x00EAF9B8+91640]
+	GetHandleVerifier [0x00EAFB60+92064]
+	GetHandleVerifier [0x00E9A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:49:22,715 - INFO - Found elements using ID selectors
+2025-04-12 15:49:22,730 - INFO - Successfully saved cookies
+2025-04-12 15:49:22,730 - INFO - Chrome driver closed successfully
+2025-04-12 15:49:22,730 - INFO - Session closed successfully
+2025-04-12 15:50:25,578 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:50:25,600 - INFO - Headers setup completed successfully
+2025-04-12 15:50:25,600 - INFO - Initializing Chrome driver...
+2025-04-12 15:50:30,053 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:50:30,990 - INFO - Chrome driver initialized successfully
+2025-04-12 15:50:31,011 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x012680E3+60707]
+	GetHandleVerifier [0x01268124+60772]
+	(No symbol) [0x010904FE]
+	(No symbol) [0x0112F3B0]
+	(No symbol) [0x010FD04C]
+	(No symbol) [0x0111E824]
+	(No symbol) [0x010FCE46]
+	(No symbol) [0x010CC5D3]
+	(No symbol) [0x010CD424]
+	GetHandleVerifier [0x014ABBC3+2435075]
+	GetHandleVerifier [0x014A7163+2416035]
+	GetHandleVerifier [0x014C350C+2531660]
+	GetHandleVerifier [0x0127F1B5+155125]
+	GetHandleVerifier [0x01285B5D+182173]
+	GetHandleVerifier [0x0126F9B8+91640]
+	GetHandleVerifier [0x0126FB60+92064]
+	GetHandleVerifier [0x0125A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:50:38,414 - INFO - Found elements using ID selectors
+2025-04-12 15:50:38,426 - INFO - Successfully saved cookies
+2025-04-12 15:50:38,426 - INFO - Chrome driver closed successfully
+2025-04-12 15:50:38,426 - INFO - Session closed successfully
+2025-04-12 15:50:53,840 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:50:53,863 - INFO - Headers setup completed successfully
+2025-04-12 15:50:53,863 - INFO - Initializing Chrome driver...
+2025-04-12 15:50:59,390 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:51:00,159 - INFO - Chrome driver initialized successfully
+2025-04-12 15:51:00,194 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x009180E3+60707]
+	GetHandleVerifier [0x00918124+60772]
+	(No symbol) [0x007404FE]
+	(No symbol) [0x007DF3B0]
+	(No symbol) [0x007AD04C]
+	(No symbol) [0x007CE824]
+	(No symbol) [0x007ACE46]
+	(No symbol) [0x0077C5D3]
+	(No symbol) [0x0077D424]
+	GetHandleVerifier [0x00B5BBC3+2435075]
+	GetHandleVerifier [0x00B57163+2416035]
+	GetHandleVerifier [0x00B7350C+2531660]
+	GetHandleVerifier [0x0092F1B5+155125]
+	GetHandleVerifier [0x00935B5D+182173]
+	GetHandleVerifier [0x0091F9B8+91640]
+	GetHandleVerifier [0x0091FB60+92064]
+	GetHandleVerifier [0x0090A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:51:05,057 - WARNING - ID selector example failed: 'WebElement' object is not subscriptable
+2025-04-12 15:51:05,076 - INFO - Successfully saved cookies
+2025-04-12 15:51:05,077 - INFO - Chrome driver closed successfully
+2025-04-12 15:51:05,078 - INFO - Session closed successfully
+2025-04-12 15:52:14,554 - INFO - Starting Quizlet flashcards scraping...
+2025-04-12 15:52:14,573 - INFO - Headers setup completed successfully
+2025-04-12 15:52:14,573 - INFO - Initializing Chrome driver...
+2025-04-12 15:52:20,387 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-12 15:52:21,221 - INFO - Chrome driver initialized successfully
+2025-04-12 15:52:21,239 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x003E80E3+60707]
+	GetHandleVerifier [0x003E8124+60772]
+	(No symbol) [0x002104FE]
+	(No symbol) [0x002AF3B0]
+	(No symbol) [0x0027D04C]
+	(No symbol) [0x0029E824]
+	(No symbol) [0x0027CE46]
+	(No symbol) [0x0024C5D3]
+	(No symbol) [0x0024D424]
+	GetHandleVerifier [0x0062BBC3+2435075]
+	GetHandleVerifier [0x00627163+2416035]
+	GetHandleVerifier [0x0064350C+2531660]
+	GetHandleVerifier [0x003FF1B5+155125]
+	GetHandleVerifier [0x00405B5D+182173]
+	GetHandleVerifier [0x003EF9B8+91640]
+	GetHandleVerifier [0x003EFB60+92064]
+	GetHandleVerifier [0x003DA620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-12 15:52:28,107 - INFO - Found elements using ID selectors
+2025-04-12 15:52:28,107 - INFO - Successfully saved cookies
+2025-04-12 15:52:28,107 - INFO - Chrome driver closed successfully
+2025-04-12 15:52:28,107 - INFO - Session closed successfully
