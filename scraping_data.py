@@ -131,10 +131,18 @@ class QuizletScraper:
     
     def get_flash_cards(self,link):
         self.driver.get(link)
-        div = self.driver.find_elements(By.CLASS_NAME,"ttuvcp0")
-        for i in div:
-            question = i.find_element(By.TAG_NAME,"div").find_element(By.TAG_NAME,"div").text
-            print(question)
+        for i in range(0,2):
+            print("======================================================")
+            div = self.driver.find_elements(By.CLASS_NAME,"ttuvcp0")
+            question = div[0].find_element(By.TAG_NAME,"div").find_element(By.TAG_NAME,"div").text
+            answer = div[1].find_element(By.TAG_NAME,"div").find_element(By.TAG_NAME,"div").text
+            print("q",question)
+            print("q",answer)
+            bt_div = self.driver.find_element(By.CLASS_NAME,"fipm5o1")
+            bt = bt_div.find_element(By.TAG_NAME,"button")
+            print(bt.get_attribute("aria-label"))
+            self.driver.execute_script("arguments[0].click();", bt)
+
         # aaaa = self.driver.find_element(By.CLASS_NAME,"wdwivj1")
         # answer = aaaa.find_element(By.TAG_NAME,"div").find_element(By.TAG_NAME,"div").find_element(By.TAG_NAME,"div").text
         # print("answer \n",answer)

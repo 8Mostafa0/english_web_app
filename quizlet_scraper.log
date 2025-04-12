@@ -1377,3 +1377,260 @@ Stacktrace:
 	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
 	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
 
+2025-04-13 01:30:27,678 - INFO - Starting Quizlet flashcards scraping...
+2025-04-13 01:30:27,744 - INFO - Headers setup completed successfully
+2025-04-13 01:30:27,744 - INFO - Initializing Chrome driver...
+2025-04-13 01:30:31,667 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-13 01:30:32,971 - INFO - Chrome driver initialized successfully
+2025-04-13 01:30:33,224 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00DD80E3+60707]
+	GetHandleVerifier [0x00DD8124+60772]
+	(No symbol) [0x00C004FE]
+	(No symbol) [0x00C9F3B0]
+	(No symbol) [0x00C6D04C]
+	(No symbol) [0x00C8E824]
+	(No symbol) [0x00C6CE46]
+	(No symbol) [0x00C3C5D3]
+	(No symbol) [0x00C3D424]
+	GetHandleVerifier [0x0101BBC3+2435075]
+	GetHandleVerifier [0x01017163+2416035]
+	GetHandleVerifier [0x0103350C+2531660]
+	GetHandleVerifier [0x00DEF1B5+155125]
+	GetHandleVerifier [0x00DF5B5D+182173]
+	GetHandleVerifier [0x00DDF9B8+91640]
+	GetHandleVerifier [0x00DDFB60+92064]
+	GetHandleVerifier [0x00DCA620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-13 01:30:56,302 - INFO - Starting Quizlet flashcards scraping...
+2025-04-13 01:30:56,334 - INFO - Headers setup completed successfully
+2025-04-13 01:30:56,343 - INFO - Initializing Chrome driver...
+2025-04-13 01:31:00,243 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-13 01:31:01,283 - INFO - Chrome driver initialized successfully
+2025-04-13 01:31:01,299 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x006F80E3+60707]
+	GetHandleVerifier [0x006F8124+60772]
+	(No symbol) [0x005204FE]
+	(No symbol) [0x005BF3B0]
+	(No symbol) [0x0058D04C]
+	(No symbol) [0x005AE824]
+	(No symbol) [0x0058CE46]
+	(No symbol) [0x0055C5D3]
+	(No symbol) [0x0055D424]
+	GetHandleVerifier [0x0093BBC3+2435075]
+	GetHandleVerifier [0x00937163+2416035]
+	GetHandleVerifier [0x0095350C+2531660]
+	GetHandleVerifier [0x0070F1B5+155125]
+	GetHandleVerifier [0x00715B5D+182173]
+	GetHandleVerifier [0x006FF9B8+91640]
+	GetHandleVerifier [0x006FFB60+92064]
+	GetHandleVerifier [0x006EA620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-13 01:31:25,694 - INFO - Starting Quizlet flashcards scraping...
+2025-04-13 01:31:25,745 - INFO - Headers setup completed successfully
+2025-04-13 01:31:25,745 - INFO - Initializing Chrome driver...
+2025-04-13 01:31:30,269 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-13 01:31:31,340 - INFO - Chrome driver initialized successfully
+2025-04-13 01:31:31,358 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00DD80E3+60707]
+	GetHandleVerifier [0x00DD8124+60772]
+	(No symbol) [0x00C004FE]
+	(No symbol) [0x00C9F3B0]
+	(No symbol) [0x00C6D04C]
+	(No symbol) [0x00C8E824]
+	(No symbol) [0x00C6CE46]
+	(No symbol) [0x00C3C5D3]
+	(No symbol) [0x00C3D424]
+	GetHandleVerifier [0x0101BBC3+2435075]
+	GetHandleVerifier [0x01017163+2416035]
+	GetHandleVerifier [0x0103350C+2531660]
+	GetHandleVerifier [0x00DEF1B5+155125]
+	GetHandleVerifier [0x00DF5B5D+182173]
+	GetHandleVerifier [0x00DDF9B8+91640]
+	GetHandleVerifier [0x00DDFB60+92064]
+	GetHandleVerifier [0x00DCA620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-13 01:37:07,798 - INFO - Starting Quizlet flashcards scraping...
+2025-04-13 01:37:07,849 - INFO - Headers setup completed successfully
+2025-04-13 01:37:07,849 - INFO - Initializing Chrome driver...
+2025-04-13 01:37:14,769 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-13 01:37:15,775 - INFO - Chrome driver initialized successfully
+2025-04-13 01:37:15,932 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00F280E3+60707]
+	GetHandleVerifier [0x00F28124+60772]
+	(No symbol) [0x00D504FE]
+	(No symbol) [0x00DEF3B0]
+	(No symbol) [0x00DBD04C]
+	(No symbol) [0x00DDE824]
+	(No symbol) [0x00DBCE46]
+	(No symbol) [0x00D8C5D3]
+	(No symbol) [0x00D8D424]
+	GetHandleVerifier [0x0116BBC3+2435075]
+	GetHandleVerifier [0x01167163+2416035]
+	GetHandleVerifier [0x0118350C+2531660]
+	GetHandleVerifier [0x00F3F1B5+155125]
+	GetHandleVerifier [0x00F45B5D+182173]
+	GetHandleVerifier [0x00F2F9B8+91640]
+	GetHandleVerifier [0x00F2FB60+92064]
+	GetHandleVerifier [0x00F1A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-13 01:38:27,314 - INFO - Starting Quizlet flashcards scraping...
+2025-04-13 01:38:27,373 - INFO - Headers setup completed successfully
+2025-04-13 01:38:27,373 - INFO - Initializing Chrome driver...
+2025-04-13 01:38:37,163 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-13 01:38:38,176 - INFO - Chrome driver initialized successfully
+2025-04-13 01:38:38,295 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x006680E3+60707]
+	GetHandleVerifier [0x00668124+60772]
+	(No symbol) [0x004904FE]
+	(No symbol) [0x0052F3B0]
+	(No symbol) [0x004FD04C]
+	(No symbol) [0x0051E824]
+	(No symbol) [0x004FCE46]
+	(No symbol) [0x004CC5D3]
+	(No symbol) [0x004CD424]
+	GetHandleVerifier [0x008ABBC3+2435075]
+	GetHandleVerifier [0x008A7163+2416035]
+	GetHandleVerifier [0x008C350C+2531660]
+	GetHandleVerifier [0x0067F1B5+155125]
+	GetHandleVerifier [0x00685B5D+182173]
+	GetHandleVerifier [0x0066F9B8+91640]
+	GetHandleVerifier [0x0066FB60+92064]
+	GetHandleVerifier [0x0065A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-13 01:38:40,842 - ERROR - An error occurred in main: Message: element not interactable
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x006680E3+60707]
+	GetHandleVerifier [0x00668124+60772]
+	(No symbol) [0x004904FE]
+	(No symbol) [0x004D97DB]
+	(No symbol) [0x004CE215]
+	(No symbol) [0x004FD04C]
+	(No symbol) [0x004CDCA4]
+	(No symbol) [0x004FD2C4]
+	(No symbol) [0x0051E824]
+	(No symbol) [0x004FCE46]
+	(No symbol) [0x004CC5D3]
+	(No symbol) [0x004CD424]
+	GetHandleVerifier [0x008ABBC3+2435075]
+	GetHandleVerifier [0x008A7163+2416035]
+	GetHandleVerifier [0x008C350C+2531660]
+	GetHandleVerifier [0x0067F1B5+155125]
+	GetHandleVerifier [0x00685B5D+182173]
+	GetHandleVerifier [0x0066F9B8+91640]
+	GetHandleVerifier [0x0066FB60+92064]
+	GetHandleVerifier [0x0065A620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-13 01:45:15,912 - INFO - Starting Quizlet flashcards scraping...
+2025-04-13 01:45:15,966 - INFO - Headers setup completed successfully
+2025-04-13 01:45:15,968 - INFO - Initializing Chrome driver...
+2025-04-13 01:45:22,143 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-13 01:45:23,197 - INFO - Chrome driver initialized successfully
+2025-04-13 01:45:23,214 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00CD80E3+60707]
+	GetHandleVerifier [0x00CD8124+60772]
+	(No symbol) [0x00B004FE]
+	(No symbol) [0x00B9F3B0]
+	(No symbol) [0x00B6D04C]
+	(No symbol) [0x00B8E824]
+	(No symbol) [0x00B6CE46]
+	(No symbol) [0x00B3C5D3]
+	(No symbol) [0x00B3D424]
+	GetHandleVerifier [0x00F1BBC3+2435075]
+	GetHandleVerifier [0x00F17163+2416035]
+	GetHandleVerifier [0x00F3350C+2531660]
+	GetHandleVerifier [0x00CEF1B5+155125]
+	GetHandleVerifier [0x00CF5B5D+182173]
+	GetHandleVerifier [0x00CDF9B8+91640]
+	GetHandleVerifier [0x00CDFB60+92064]
+	GetHandleVerifier [0x00CCA620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-13 01:45:26,600 - ERROR - An error occurred in main: Message: element not interactable
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00CD80E3+60707]
+	GetHandleVerifier [0x00CD8124+60772]
+	(No symbol) [0x00B004FE]
+	(No symbol) [0x00B497DB]
+	(No symbol) [0x00B3E215]
+	(No symbol) [0x00B6D04C]
+	(No symbol) [0x00B3DCA4]
+	(No symbol) [0x00B6D2C4]
+	(No symbol) [0x00B8E824]
+	(No symbol) [0x00B6CE46]
+	(No symbol) [0x00B3C5D3]
+	(No symbol) [0x00B3D424]
+	GetHandleVerifier [0x00F1BBC3+2435075]
+	GetHandleVerifier [0x00F17163+2416035]
+	GetHandleVerifier [0x00F3350C+2531660]
+	GetHandleVerifier [0x00CEF1B5+155125]
+	GetHandleVerifier [0x00CF5B5D+182173]
+	GetHandleVerifier [0x00CDF9B8+91640]
+	GetHandleVerifier [0x00CDFB60+92064]
+	GetHandleVerifier [0x00CCA620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
+2025-04-13 01:47:28,043 - INFO - Starting Quizlet flashcards scraping...
+2025-04-13 01:47:28,081 - INFO - Headers setup completed successfully
+2025-04-13 01:47:28,081 - INFO - Initializing Chrome driver...
+2025-04-13 01:47:35,452 - INFO - patching driver executable C:\Users\Mosix\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-13 01:47:36,485 - INFO - Chrome driver initialized successfully
+2025-04-13 01:47:36,597 - WARNING - Error loading cookies: Message: invalid cookie domain
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x010F80E3+60707]
+	GetHandleVerifier [0x010F8124+60772]
+	(No symbol) [0x00F204FE]
+	(No symbol) [0x00FBF3B0]
+	(No symbol) [0x00F8D04C]
+	(No symbol) [0x00FAE824]
+	(No symbol) [0x00F8CE46]
+	(No symbol) [0x00F5C5D3]
+	(No symbol) [0x00F5D424]
+	GetHandleVerifier [0x0133BBC3+2435075]
+	GetHandleVerifier [0x01337163+2416035]
+	GetHandleVerifier [0x0135350C+2531660]
+	GetHandleVerifier [0x0110F1B5+155125]
+	GetHandleVerifier [0x01115B5D+182173]
+	GetHandleVerifier [0x010FF9B8+91640]
+	GetHandleVerifier [0x010FFB60+92064]
+	GetHandleVerifier [0x010EA620+4704]
+	BaseThreadInitThunk [0x7506FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x7721809E+286]
+	RtlGetAppContainerNamedObjectPath [0x7721806E+238]
+
